@@ -1,0 +1,46 @@
+
+Creating reviews for the following images:
+ sample5.png with id = 0.
+[
+  "202005i4c966ffaacee4c31933831e2def6d08e"
+]
+
+Getting review details:
+Review 202005i4c966ffaacee4c31933831e2def6d08e for item ID 0 is Pending.
+{
+  "ReviewId": "202005i4c966ffaacee4c31933831e2def6d08e",
+  "SubTeam": "public",
+  "Status": "Pending",
+  "ReviewerResultTags": [],
+  "CreatedBy": "mscmpn20",
+  "Metadata": [
+    {
+      "Key": "sc",
+      "Value": "true"
+    }
+  ],
+  "Type": "Image",
+  "Content": "https://reviewcontentstorageuse.blob.core.windows.net/mscmpn20/IMG_202005i4c966ffaacee4c31933831e2def6d08e",
+  "ContentId": "0",
+  "CallbackEndpoint": "https://centralindia.api.cognitive.microsoft.com/contentmoderator/review/v1.0"
+}
+
+Getting review details:
+Review 202005i4c966ffaacee4c31933831e2def6d08e for item ID 0 is Pending.
+{
+  "ReviewId": "202005i4c966ffaacee4c31933831e2def6d08e",
+  "SubTeam": "public",
+  "Status": "Pending",
+  "ReviewerResultTags": [],
+  "CreatedBy": "mscmpn20",
+  "Metadata": [
+    {
+      "Key": "sc",
+      "Value": "true"
+    }
+  ],
+  "Type": "Image",
+  "Content": "https://reviewcontentstorageuse.blob.core.windows.net/mscmpn20/IMG_202005i4c966ffaacee4c31933831e2def6d08e",
+  "ContentId": "0",
+  "CallbackEndpoint": "https://centralindia.api.cognitive.microsoft.com/contentmoderator/review/v1.0"
+}

@@ -1,0 +1,11 @@
+C:\ProjectShell\ContentModeatorQuickStart\bin\Debug\netcoreapp2.1\ContentModeatorQuickStart.deps.json
+C:\ProjectShell\ContentModeatorQuickStart\bin\Debug\netcoreapp2.1\ContentModeatorQuickStart.runtimeconfig.json
+C:\ProjectShell\ContentModeatorQuickStart\bin\Debug\netcoreapp2.1\ContentModeatorQuickStart.runtimeconfig.dev.json
+C:\ProjectShell\ContentModeatorQuickStart\bin\Debug\netcoreapp2.1\ContentModeatorQuickStart.dll
+C:\ProjectShell\ContentModeatorQuickStart\bin\Debug\netcoreapp2.1\ContentModeatorQuickStart.pdb
+C:\ProjectShell\ContentModeatorQuickStart\obj\Debug\netcoreapp2.1\ContentModeatorQuickStart.csprojAssemblyReference.cache
+C:\ProjectShell\ContentModeatorQuickStart\obj\Debug\netcoreapp2.1\ContentModeatorQuickStart.csproj.CoreCompileInputs.cache
+C:\ProjectShell\ContentModeatorQuickStart\obj\Debug\netcoreapp2.1\ContentModeatorQuickStart.AssemblyInfoInputs.cache
+C:\ProjectShell\ContentModeatorQuickStart\obj\Debug\netcoreapp2.1\ContentModeatorQuickStart.AssemblyInfo.cs
+C:\ProjectShell\ContentModeatorQuickStart\obj\Debug\netcoreapp2.1\ContentModeatorQuickStart.dll
+C:\ProjectShell\ContentModeatorQuickStart\obj\Debug\netcoreapp2.1\ContentModeatorQuickStart.pdb

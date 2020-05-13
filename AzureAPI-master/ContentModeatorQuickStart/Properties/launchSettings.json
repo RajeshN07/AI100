@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "ContentModeatorQuickStart": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "CONTENT_MODERATOR_ENDPOINT": "https://contetmoderatortext1.cognitiveservices.azure.com/",
+        "CONTENT_MODERATOR_REVIEWS_ENDPOINT": "https://centralindia.api.cognitive.microsoft.com/contentmoderator/review/v1.0",
+        "CONTENT_MODERATOR_SUBSCRIPTION_KEY": "997c810eec6444b9a07a090893e2e46a",
+        "CONTENT_MODERATOR_TEAM_NAME": "MSCMPN20"
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+Autocorrect typos, check for matching terms, PII, and classify.
+{
+  "OriginalText": "This is garbage crap email. This is garbage crap email. This is garbage crap email. This is garbage crap email.  This is garbage crap email. This is garbage crap email.",
+  "NormalizedText": "  garbage crap email.   garbage crap email.   garbage crap email.   garbage crap email.    garbage crap email.   garbage crap email.",
+  "AutoCorrectedText": "This is garbage crap email. This is garbage crap email. This is garbage crap email. This is garbage crap email.  This is garbage crap email. This is garbage crap email.",
+  "Misrepresentation": null,
+  "Classification": {
+    "Category1": {
+      "Score": 0.0079671526327729225
+    },
+    "Category2": {
+      "Score": 0.48593136668205261
+    },
+    "Category3": {
+      "Score": 0.98799997568130493
+    },
+    "ReviewRecommended": true
+  },
+  "Status": {
+    "Code": 3000,
+    "Description": "OK",
+    "Exception": null
+  },
+  "PII": null,
+  "Language": "eng",
+  "Terms": [
+    {
+      "Index": 10,
+      "OriginalIndex": 16,
+      "ListId": 0,
+      "Term": "crap"
+    },
+    {
+      "Index": 32,
+      "OriginalIndex": 44,
+      "ListId": 0,
+      "Term": "crap"
+    },
+    {
+      "Index": 54,
+      "OriginalIndex": 72,
+      "ListId": 0,
+      "Term": "crap"
+    },
+    {
+      "Index": 76,
+      "OriginalIndex": 100,
+      "ListId": 0,
+      "Term": "crap"
+    },
+    {
+      "Index": 99,
+      "OriginalIndex": 129,
+      "ListId": 0,
+      "Term": "crap"
+    },
+    {
+      "Index": 121,
+      "OriginalIndex": 157,
+      "ListId": 0,
+      "Term": "crap"
+    }
+  ],
+  "TrackingId": "USE_ibiza_b2cc125d-94bb-41b4-bd1f-6030308c9118_ContentModerator.F0_cc55cd67-1f50-4319-97f4-645767e829cb"
+}
